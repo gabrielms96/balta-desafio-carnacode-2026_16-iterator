@@ -2,7 +2,9 @@
 
 ## 🥁 CarnaCode 2026 - Desafio 16 - Iterator
 
-Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CarnaCode 2026**, realizado pelo [balta.io](https://balta.io). 👻
+Oi, eu sou o Gabriel Mizael e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CarnaCode 2026**, realizado pelo [balta.io](https://balta.io). 👻
+
+Esta implementação foi desenvolvida como um exercício de estudo. O Cursor (IA) foi utilizado como assistente de aprendizagem, e o código foi revisado e documentado para consolidar os conceitos.
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
 
@@ -22,6 +24,3 @@ O desafio **CarnaCode 2026** consiste em implementar todos os 23 padrões de pro
 
 ### eBook - Fundamentos dos Design Patterns
 Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fundamentos dos Design Patterns](https://lp.balta.io/ebook-fundamentos-design-patterns).
-
-### Veja meu progresso no desafio
-[Incluir link para o repositório central]
